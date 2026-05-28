@@ -108,4 +108,4 @@ Multi-task learning improved robustness over the augmented baseline, particularl
 
 ## Course Context
 
-Final project for **CIS 6930 — Deep Learning for Computer Vision** at the University of South Florida. Grade: 95/100.
+Final project for **CIS 4930 — Deep Learning for Computer Vision** at the University of South Florida. Grade: 95/100.
